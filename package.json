@@ -1,0 +1,25 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Spider.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "axios": "^0.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjingjai/spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjingjai/spider/issues"
+  },
+  "homepage": "https://github.com/pjingjai/spider#readme"
+}
